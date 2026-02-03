@@ -1,18 +1,19 @@
 # Site-wide settings
 # ------------------
 #
-# title: The Best Blog (not biased)
+# title: Your awesome title
 #
 # author:
-#   name: Drew Williams
-#   email: Williamsag2@hendrix.edu
+#   name: GitHub User
+#   email: your-email@domain.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 # description: >
-#   This sight showcases the awesome exploits of the amazing Drew Williams... On THIS website,
-# you will see -> failed website attempts, awesome and very complex web designs that are very simple,
-# maybe a few twitter rants... who knows! But it will be AWESOME!!!!
+#   Write an awesome description for your new site here. You can edit this line
+#   in _config.yml. It will appear in your document head meta (for Google search
+#   results) and in your feed.xml site description.
+
 
 # Build settings
 # --------------

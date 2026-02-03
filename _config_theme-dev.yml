@@ -1,12 +1,12 @@
-title: Your awesome title
-author:
-  name: GitHub User
-  email: your-email@domain.com
+title: The Best Blog (not biased)
+author: Drew Williams
+  name: DrewWillias68
+  email: Williamsag2@hendrix.edu
 
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  This sight showcases the awesome exploits of the amazing Drew Williams... On THIS website,
+  you will see -> failed website attempts, awesome and very complex web designs that are very simple,
+  maybe a few twitter rants... who knows! But it will be AWESOME!!!!
 
 theme: minima
 
@@ -27,7 +27,7 @@ minima:
   #     * solarized-light    Light variant of solarized color scheme.
   #     * solarized-dark     Dark variant of solarized color scheme.
   #     * solarized          Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: dark
 
   # Specific pages for site navigation.
   #   If you wish to link only specific pages in the site-navigation, use this and list
