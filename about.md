@@ -1,18 +1,17 @@
 ---
 layout: page
-title: About
+title: About My Blog!
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This sight showcases the awesome exploits of the amazing Drew Williams... On THIS website,
+you will see -> failed website attempts, awesome and very complex web designs that are very simple,
+maybe a few twitter rants... who knows! But it will be AWESOME!!!!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+   -[email]: Williamsag2@hendrix.edu
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+   -[phone]: 501-499-0344
 
+   -[github name]: DrewWilliams68
 
-[jekyll-organization]: https://github.com/jekyll
+Thank you for viewing my blog!
