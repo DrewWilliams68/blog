@@ -6,6 +6,10 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'dark' }}",
   "minima/initialize";
+  body{
+    font-family:'Times New Roman', Times, serif;
+    color:aqua;
+  }
 
   
 
