@@ -6,13 +6,22 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'dark' }}",
   "minima/initialize";
-
-  post, body{
+  base, body{
     font-family:'Times New Roman', Times, serif;
-    color: aqua;
-    font-size:medium;
-    font-weight: 100;
-    border-color: cadetblue;
+    color:aqua;
+  }
+  home, body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     color:blue;
+  }
+
+  page, body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     color: violet;
+  }
+
+  post{
+    color: yellow;
   }
 
   
