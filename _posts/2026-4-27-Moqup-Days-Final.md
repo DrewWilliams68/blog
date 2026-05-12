@@ -9,4 +9,4 @@ So far I believe we are making good progress towards the development of our proj
 ### Extra
 - [x][Moqups](https://app.moqups.com/yhD9SGSTalsDyyIgds9TdJcrVWm2gpaC/edit/page/ad64222d5)
 - [x][Git Repo](https://github.com/ChrisNBell/CSCI340FinalProject)
-- [x]![Hour sheet]({{"assets/images/Sheet.png" | relative_url }})
+![Hour sheet]({{"assets/images/Sheet.png" | relative_url }})
